@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function () {
+export default function Error() {
   return (
     <div>
-        
+      <h1>ERROR DETECTED 404</h1>  
     </div>
   )
 }
